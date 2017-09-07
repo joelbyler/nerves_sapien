@@ -1,0 +1,2 @@
+defmodule Sapien.Adapter.Fake.WaveForm do
+end
